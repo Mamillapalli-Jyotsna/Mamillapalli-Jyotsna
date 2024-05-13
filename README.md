@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI & ML and building intelligent agents
 - 🌱 I’m currently exploring Gen AI agents
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ https://twitter.com/JyotsnaM476585
+- 📫 Reach me @ https://twitter.com/JyotsnaM476585
 - 😄 Pronouns: She/Her 
 
 <!---
