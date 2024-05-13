@@ -3,8 +3,7 @@
 - 🌱 I’m currently exploring Gen AI agents
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ https://twitter.com/JyotsnaM476585
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+- 😄 Pronouns: She/Her 
 
 <!---
 Mamillpalli-Jyotsna/Mamillpalli-Jyotsna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
