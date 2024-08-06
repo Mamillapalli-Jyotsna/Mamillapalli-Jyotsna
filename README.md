@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mamillapalli-Jyotsna
 - 👀 I’m interested in AI & ML and building intelligent agents
 - 🌱 I’m currently exploring Gen AI agents
+- 😉 Civil engineer turned to techie
 - 📫 Reach me @ https://twitter.com/JyotsnaM476585
 - 😄 Pronouns: She/Her 
 
